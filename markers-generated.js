@@ -23,6 +23,7 @@ MAPCRAFTER_MARKERS_GENERATED = [
     "markers" : {
       "world" : [
         {"pos": [795,28,22], "title": "Outer Part", "text": "Outer Part", },
+        {"pos": [861,12,38], "title": "End Portal !!!", "text": "End Portal !!!", },
       ],
     },
   },
